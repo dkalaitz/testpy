@@ -1,3 +1,3 @@
-class Calculator:
-    def add(self, a, b):
+class CalcClass:
+    def sum(self, a, b):
         return a + b
